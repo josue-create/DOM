@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+
+  <persona>
+    <nombre>Josue</nombre>
+    <apellidos>Castillo Vizcaino</apellidos>
+    <fechaNacimiento>04/11/2000</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Raul</nombre>
+    <apellidos>Lorenzo Carmona</apellidos>
+    <fechaNacimiento>12/03/1997</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Jorge</nombre>
+    <apellidos>Huerta Sanchez</apellidos>
+    <fechaNacimiento>19/05/1999</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Patricia</nombre>
+    <apellidos>Vizcaino Serratos</apellidos>
+    <fechaNacimiento>31/12/1970</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Arturo</nombre>
+    <apellidos>Limon Castañeda</apellidos>
+    <fechaNacimiento>23/09/1994</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Alexis</nombre>
+    <apellidos>Limon Castañeda</apellidos>
+    <fechaNacimiento>12/10/1989</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Ramon</nombre>
+    <apellidos>Torres Vizcaino</apellidos>
+    <fechaNacimiento>12/11/2000</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Rafa</nombre>
+    <apellidos>Lorenzo Carmona</apellidos>
+    <fechaNacimiento>19/03/1997</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Jose</nombre>
+    <apellidos>Camacho Sanchez</apellidos>
+    <fechaNacimiento>19/11/2000</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Noemi</nombre>
+    <apellidos>Acebes Serratos</apellidos>
+    <fechaNacimiento>12/12/1987</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Noe</nombre>
+    <apellidos>Lopez Castañeda</apellidos>
+    <fechaNacimiento>22/09/1998</fechaNacimiento>
+  </persona>
+
+  <persona>
+    <nombre>Alejandro</nombre>
+    <apellidos>Torres Mora</apellidos>
+    <fechaNacimiento>12/10/20000</fechaNacimiento>
+  </persona>
+
+</personas>

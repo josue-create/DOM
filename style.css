@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+#personas {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  height: 300px;
+  overflow: scroll;
+}
+
+#personas th,{
+  text-align: right;
+  padding:12px;
+
+}
+
+#personas thead {
+  border-bottom: 1px solid #ddd;
+}
+
+#personas thead{
+  background-color: #f1f1f1;
+}
+body{
+  background-color:#778899;
+}
+#myInput {
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+ #personas td {
+  text-align: center;
+}
